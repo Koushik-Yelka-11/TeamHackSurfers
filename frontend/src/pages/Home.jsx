@@ -369,7 +369,7 @@ const Home = () => {
 
       {/* Header Bar */}
       <header className='w-full h-16 bg-black/30 backdrop-blur-sm border-b border-gray-800 flex items-center justify-between px-6 flex-shrink-0'>
-        <h1 className='text-white text-xl font-semibold'>AI Voice Assistant</h1>
+        <h1 className='text-white text-xl font-semibold'>Learninstant</h1>
         
         <div className='flex items-center gap-3'>
           <button
